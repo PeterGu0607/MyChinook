@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ChinookWeb", "ChinookWeb\", "{CA24F184-6389-4BD8-9E60-392BA5339041}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ChinookWeb", "ChinookWeb\", "{00624814-0322-47D8-885A-887FC97124CD}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
 		ProjectReferences = "{81b74713-d687-48bf-8d62-81010e3b30e6}|ChinookSystem.Data.dll;{d7eaccbf-75bb-4946-97ea-1b618b36e0a9}|ChinookSystem.dll;"
@@ -36,10 +36,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CA24F184-6389-4BD8-9E60-392BA5339041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CA24F184-6389-4BD8-9E60-392BA5339041}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CA24F184-6389-4BD8-9E60-392BA5339041}.Release|Any CPU.ActiveCfg = Debug|Any CPU
-		{CA24F184-6389-4BD8-9E60-392BA5339041}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{00624814-0322-47D8-885A-887FC97124CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00624814-0322-47D8-885A-887FC97124CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00624814-0322-47D8-885A-887FC97124CD}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{00624814-0322-47D8-885A-887FC97124CD}.Release|Any CPU.Build.0 = Debug|Any CPU
 		{D7EACCBF-75BB-4946-97EA-1B618B36E0A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D7EACCBF-75BB-4946-97EA-1B618B36E0A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7EACCBF-75BB-4946-97EA-1B618B36E0A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
